@@ -5,3 +5,5 @@
 ## etendendo modificações de commit /versionamento
 
 ## mapeando mudanças de alteração 
+
+*alterando com git pull
